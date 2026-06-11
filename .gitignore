@@ -1,0 +1,11 @@
+# Build output
+portscanner
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
